@@ -1,8 +1,8 @@
 # vue-router-practice-admin
 
 ## Requirement
-- Please forked this repo for practice
-- Implement router by mockup 
+- Please forked this repo for practice, We have put some components and used admin home page as demonstration
+- Implement routes according to mockup 
 
 ## Mockup
 

@@ -1,12 +1,14 @@
 <template>
     <div>
-        Admin
+        <p>
+            This is the admin Home page!
+        </p>
     </div>
 </template>
 
 <script>
     export default {
-        name: 'Admin',
+        name: 'Home',
         components: {
         }
     }
